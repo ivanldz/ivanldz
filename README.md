@@ -10,7 +10,7 @@ Every line of code I write reflects my constant pursuit of efficiency and elegan
 Discover projects that go beyond basic expectations, offering exceptional value and unique user experiences.
 
 - **What I do:** I create applications and websites that combine functionality with a touch of elegance.
-- **Favorite languages:** Go for efficiency, and JavaScript for versatility.
+- **Favorite languages:** Go for efficiency, and JavaScript/Typescript for versatility.
 
 Explore and connect! If you share my passion for quality and creativity, I'd be thrilled to hear from you!
 
